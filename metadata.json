@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "Um gerenciador de tarefas intuitivo e elegante com acompanhamento de produtividade e controle de listas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
